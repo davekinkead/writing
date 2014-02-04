@@ -24,7 +24,7 @@ and apply a convention within the reference to indicate this is more than just a
 
     ...despite Breakey's [2009:p74][@breakey2009] protestations that utilitarians have access to sufficient information....
     
-    [@breakey2009]: http://dx.doi.org/10.1017/S0953820808003373 "HUGH BREAKEY (2009). The Epistemic and Informational Requirements of Utilitarianism. Utilitas, 21, pp 72-99."
+    [@breakey2009]: http://dx.doi.org/10.1017/S0953820808003373 "Hugh Breakey (2009). The Epistemic and Informational Requirements of Utilitarianism. Utilitas, 21, pp 72-99."
 
 The advantage of this approach is threefold.  Firstly, it treats citations as links when used in hypermedia, with all the accompanying advantages of this.  Secondly, it maintains static media citation conventions in the link title field (which will also be visible on link hover events).  
 
